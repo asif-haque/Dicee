@@ -1,0 +1,44 @@
+.container {
+  /* width: 80%; */
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  /* background-color: #393e46; */
+  background-image: url("./images/bgImg.jpg");
+  background-position: 52% 52%;
+}
+
+h1 {
+  margin: 30px 0;
+  font-family: "Black Ops One", cursive;
+  text-shadow: 3px 0 8px black;
+  font-size: 7.5rem;
+  color: rgb(194, 194, 194);
+  /* -webkit-text-stroke: 0.5px rgb(204, 202, 202); */
+}
+
+p {
+  font-size: 2rem;
+  color: white;
+  text-shadow: 3px 0 8px black;
+
+  font-family: "Indie Flower", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
